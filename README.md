@@ -1,29 +1,5 @@
-<a href="https://github.com/delta-code-ltda" target="_blank">
-  <img src="https://github.com/Luk4x/Luk4x/assets/86276393/a8aacd9e-ea05-4f30-a2f2-9c4d55232ba4" alt="Assinatura de Lucas da Delta Code" height="89px" />
-</a>
-<table align="right">
-  <tr>
-    <td height="43px">
-      <b>
-        <a href="README.md">Português 🇧🇷</a>
-      </b>
-    </td>
-  </tr>
-  <tr>
-    <td height="43px">
-      <a href="readme-en.md">English 🇺🇸</a>
-    </td>
-  </tr>
-</table>
-<hr/>
 
-<a href="https://github.com/Luk4x/github-profile-background-photo" alt="Repositório do Banner Animado de Luk4x">
-  <img align="center" width="100%" alt="Banner Animado do Github do Luk4x" src="./images/wallpaper-pt.apng" />
-</a>
 <br/><br/>
-<div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=luk4x&repo=luk4x&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=6ca0f7&contentType=svg" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
-</div>
 <hr/>
 
 <img align="center" src="./components/titles/pt/about.png" width="100%" alt="Título da seção Sobre Mim" />
@@ -367,20 +343,12 @@
 <img align="right" width="185px" src="./images/oh-ok.gif" alt="Garota trabalhando com programação"/>
 <br/><br/>
 <p align="center">
-  <a href="https://www.canva.com/design/DAFSw49nC14/CDdcLsJ4a-uwMAWG_cq4zQ/view?utm_content=DAFSw49nC14&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
-    <img src="./components/icons/pt/cv.png" alt="Etiqueta de Currículo" height="30px" />
-    &nbsp;
-  </a>
-  <a href="mailto:luk4xm4ci3l@gmail.com" target="_blank">
+  <a href="mailto:manoeldiasmf@gmail.com" target="_blank">
     <img src="./components/icons/gmail.png" alt="Etiqueta do Gmail" height="30px" />
     &nbsp;
   </a>
-  <a href="https://www.linkedin.com/in/lucasmacielf/" target="_blank">
+  <a href="https://www.linkedin.com/in/manoeldiasn/" target="_blank">
     <img src="./components/icons/linkedin.png" alt="Etiqueta do Linkedin" height="30px" />
-    &nbsp;
-  </a>
-  <a href="https://cursos.alura.com.br/vitrinedev/lucasmacielf" target="_blank">
-    <img src="./components/icons/vitrine-dev.png" alt="Etiqueta da Vitrine.Dev" height="30px" />
     &nbsp;
   </a>
   <a href="https://t.me/Manoel_Dias7" target="_blank">
